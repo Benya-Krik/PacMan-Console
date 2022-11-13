@@ -1,0 +1,8 @@
+D:\learnsharp\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\learnsharp\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\learnsharp\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\learnsharp\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\learnsharp\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\learnsharp\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\learnsharp\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\learnsharp\Pacman\Pacman\obj\Debug\Pacman.pdb
